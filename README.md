@@ -1,2 +1,6 @@
 # ONES
-coding 
+coding
+new function()
+{
+
+}
